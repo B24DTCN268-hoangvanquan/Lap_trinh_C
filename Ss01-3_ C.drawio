@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.2">
+  <diagram name="Trang-1" id="aJgWp3bn8Ze2t3zDm-5U">
+    <mxGraphModel dx="841" dy="484" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r_vkZ-HYVq2-BnHmPMNp-1" value="Bắt đầu&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="346" y="65" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="r_vkZ-HYVq2-BnHmPMNp-2" value="Nhập số a và b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="337" y="164" width="138" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="r_vkZ-HYVq2-BnHmPMNp-3" value="Tính tổng = a + b" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="346" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r_vkZ-HYVq2-BnHmPMNp-4" value="Kết thúc&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="341.5" y="479" width="129" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="r_vkZ-HYVq2-BnHmPMNp-5" value="In tổng&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="339" y="364" width="134" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="r_vkZ-HYVq2-BnHmPMNp-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="r_vkZ-HYVq2-BnHmPMNp-5" target="r_vkZ-HYVq2-BnHmPMNp-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="274" y="403" as="sourcePoint" />
+            <mxPoint x="288" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r_vkZ-HYVq2-BnHmPMNp-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="r_vkZ-HYVq2-BnHmPMNp-3" target="r_vkZ-HYVq2-BnHmPMNp-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499" y="330" as="sourcePoint" />
+            <mxPoint x="513" y="442" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r_vkZ-HYVq2-BnHmPMNp-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="r_vkZ-HYVq2-BnHmPMNp-2" target="r_vkZ-HYVq2-BnHmPMNp-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="283" y="186" as="sourcePoint" />
+            <mxPoint x="297" y="298" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r_vkZ-HYVq2-BnHmPMNp-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="r_vkZ-HYVq2-BnHmPMNp-1" target="r_vkZ-HYVq2-BnHmPMNp-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="477" y="112" as="sourcePoint" />
+            <mxPoint x="491" y="224" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
